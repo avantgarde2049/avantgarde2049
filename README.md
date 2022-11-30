@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avantgarde2049
-- 👀 I’m interested in ...data plumbing
+- 👀 I’m interested in ...data plumbing and model building
 - 🌱 I’m currently learning ...deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sagniknitd@gmail.com
